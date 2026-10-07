@@ -205,9 +205,9 @@ Total Nasabah di Bank: 1
 
 ## 👤 Author
 
-**Iqbal Mauluddin**
-
-- GitHub: [@username-kamu](https://github.com/username-kamu)
+**Iqbal Mauluddin** ||
+**F1D02510011**
+- GitHub: (https://github.com/iqbalmauluddin2903-eng)
 
 ---
 
