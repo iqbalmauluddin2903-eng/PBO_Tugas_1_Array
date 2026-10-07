@@ -1,10 +1,16 @@
-# 🏦 Simple Banking System (Java)
+<h1 align="center">🏦 Simple Banking System (Java)</h1>
 
-![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-8%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8+">
+  <img src="https://img.shields.io/badge/Paradigm-OOP-blue?style=for-the-badge" alt="Paradigm OOP">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
+</p>
 
-Aplikasi simulasi perbankan sederhana berbasis **Java** yang dibuat untuk mempelajari konsep **Object-Oriented Programming (OOP)** dan penggunaan **koleksi data dinamis (`ArrayList`)** untuk mengelola banyak objek.
+<p align="center">
+  Aplikasi simulasi perbankan sederhana berbasis <b>Java</b> yang dibuat untuk mempelajari konsep<br>
+  <b>Object-Oriented Programming (OOP)</b> dan penggunaan <b>koleksi data dinamis (<code>ArrayList</code>)</b><br>
+  untuk mengelola banyak objek.
+</p>
 
 ---
 
